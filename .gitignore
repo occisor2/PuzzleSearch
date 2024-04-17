@@ -1,0 +1,9 @@
+*.o
+*.d
+*~
+*.out
+sol_*
+results*
+slurm*
+out*
+project1
